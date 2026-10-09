@@ -11,7 +11,7 @@ export default function Footer() {
               <span className="grid size-9 place-items-center rounded-lg bg-indigo">
                 <Scale className="size-5" />
               </span>
-              Mind the Gap
+              Mind Gap
             </a>
             <p className="mt-4 max-w-sm text-sm leading-relaxed">
               An awareness platform on workplace gender discrimination and the wage gap in the Philippines, built to
