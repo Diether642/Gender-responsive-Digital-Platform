@@ -63,7 +63,7 @@ export default function Navbar() {
           <span className="grid size-8 place-items-center rounded-lg bg-indigo text-white">
             <Scale className="size-4.5" />
           </span>
-          Mind the Gap
+          Mind Gap
         </a>
 
         <ul className="hidden items-center gap-1 md:flex">
